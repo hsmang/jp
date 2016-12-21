@@ -38,6 +38,8 @@ public class HomeController {
 		System.out.println("@@@@@@@@@@@@@@@@");
 		System.out.println("@@@@@@@@@@@@@@@@");
 		
+		System.out.println("hello jong9");
+		
 		return "home";
 	}
 	
