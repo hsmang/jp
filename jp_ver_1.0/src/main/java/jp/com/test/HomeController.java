@@ -36,7 +36,10 @@ public class HomeController {
 		System.out.println("@@@@@@@@@@@@@@@@");
 		
 		System.out.println("@@@@@@@@@@@@@@@@");
-		System.out.println("@@@@@@@@@@@@@@@@");
+		
+		System.out.println("sanggi가 바꾸었당ㅇㅇㅇㅇ ");
+		
+		System.out.println("팟하~~!  유하~~!");
 		
 		return "home";
 	}
