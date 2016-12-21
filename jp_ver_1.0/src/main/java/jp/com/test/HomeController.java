@@ -41,6 +41,8 @@ public class HomeController {
 		
 		System.out.println("팟하~~!  유하~~!");
 		
+		System.out.println("hello jong9");
+		
 		return "home";
 	}
 	
